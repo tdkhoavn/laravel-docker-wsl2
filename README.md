@@ -3,7 +3,7 @@
 ![Docker Logo](/img/Moby-logo.png)
 
 
-## 1. Cài dặt Windows Subsytem for Linux 2 (WSL2)
+## 1. Cài đặt Windows Subsytem for Linux 2 (WSL2)
 
 - Để sử dụng WSL2 máy tính của bạn phải cài đặt Windows 10 version 2004 trở lên.
 - Cách cài thì làm theo [hướng dẫn sau](https://docs.microsoft.com/en-us/windows/wsl/install-win10#update-to-wsl-2)
