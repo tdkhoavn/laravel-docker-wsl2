@@ -66,3 +66,9 @@ cd /app
 ```
 docker exec -ti -u 1000:1000 node /bin/bash
 ```
+
+## 6. Visual Studio Code
+
+- Để thao tác chỉnh sửa code thì chúng ta cần cài đặt VSCode trên máy Windows.
+- Sau khi cài xong thì truy cập thư mục chứa source ở Ubuntu và đơn giản gõ `code .`, khi đó VSCode trên Windows tự bật lên.
+- Cuối cùng Let's Start Coding✌
